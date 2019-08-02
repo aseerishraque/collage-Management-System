@@ -1,0 +1,19 @@
+
+ENJOY EASY CODE 
+
+Collage Management System
+
+ADMIN TYPE ACCESS
+ADMIN USER NAME:ADMIN
+ADMIN PASSWORD:admin
+
+
+
+  
+
+
+
+
+
+
+
